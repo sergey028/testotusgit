@@ -4,6 +4,6 @@ function main() {
 	return 1
 }
 
-function CC () {
+function CC() {
 
 }

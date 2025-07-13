@@ -12,7 +12,7 @@ func main() {
 		fmt.Println("Ошибка", err)
 		return
 	}
-	//fmt.Println(sizeOfDesk)
+
 	for i := 0; i < size; i += 1 {
 
 		for j := 0; j < size; j += 1 {
